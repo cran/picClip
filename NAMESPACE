@@ -1,0 +1,7 @@
+exportPattern("^[[:alpha:]]+")
+# Import other packages
+import(base64enc)
+import(shiny)
+import(htmltools)
+import(testthat)
+import(stringr)
